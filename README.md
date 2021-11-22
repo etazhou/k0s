@@ -16,6 +16,8 @@ k0s fits well in any cloud environment, but can also be used in IoT gateways, Ed
 
 ## Key Features
 
+
+
 - Different installation methods: [single-node](docs/install.md), [multi-node](docs/k0sctl-install.md), [airgap](docs/airgap-install.md) and [Docker](docs/k0s-in-docker.md)
 - Automatic lifecycle management with k0sctl: [upgrade](docs/upgrade.md), [backup and restore](docs/backup.md)
 - Modest [system requirements](docs/system-requirements.md) (1 vCPU, 1 GB RAM)
